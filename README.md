@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itagarf
-- I’m work on projects on web design, web development, UI/UX design, and graphics design
+- I work on projects on web design, web development, UI/UX design, and graphics design
 - 🌱 I’m currently learning python
 
 <!---
