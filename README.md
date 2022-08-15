@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itagarf
-- I work on projects on web design, web development, UI/UX design, and graphics design
-- 🌱 I’m currently learning python
+- I work on projects on web design, web development, database design, and cloud technologies
+- 🌱 I’m currently learning devOps
 
 <!---
 itagarf/itagarf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
