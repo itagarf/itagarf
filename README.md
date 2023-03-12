@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @itagarf
-- I work on projects on web design, web development, database design, and cloud technologies
-- 🌱 I’m currently learning devOps
+- 👋 Hi, I’m Itagar F.E.
+- ✍️ I work on projects on web design and development, database, and cloud technologies
+- 🌱 I’m on track with learning devOps
+- ✨ As a hobby, I draw, listen to music, or enjoy my time alone
 
 <!---
 itagarf/itagarf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
