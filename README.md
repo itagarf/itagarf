@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Itagar F.E.
 - ✍️ I work on projects on web design and development, database, and cloud technologies
-- 🌱 I’m on track with learning devOps
+- 🌱 I’m on track with learning DevOps
 - ✨ As a hobby, I draw, listen to music, or enjoy my time alone
 
 <!---
