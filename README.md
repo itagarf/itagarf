@@ -4,7 +4,7 @@
 - ✨ As a hobby, I draw, listen to music, or enjoy my time alone
 
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=itagarf&show_icons=true&locale=en&layout=compact" alt="itagarf" /></p>
+<!--<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=itagarf&show_icons=true&locale=en&layout=compact" alt="itagarf" /></p>-->
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=itagarf&show_icons=true&locale=en" alt="itagarf" /></p>
 
